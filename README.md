@@ -34,14 +34,14 @@ A classic **Snake Game** built with Python and Pygame. Navigate the grid, collec
   python snake_game.py
 
 ---
-## 📂 Project Structure
+#### 📂 Project Structure
 
 snake-game/
 │
 ├── snake_game.py      # Main game logic
 ├── README.md          # Project documentation
 └── requirements.txt   # Python dependencies (optional)
----
+
 
 #### 🛠 Features
 Dynamic gameplay with real-time controls.
