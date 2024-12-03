@@ -1,19 +1,66 @@
-## Snake-Game
-The classic snake game. Made with pygame.
+# Snake Game 🐍
 
-You can check out my video tutorial series on how to create this game: https://www.youtube.com/watch?v=5tvER0MT14s&t=2s
+A classic **Snake Game** built with Python and Pygame. Navigate the grid, collect snacks, and avoid collisions!
 
-Requirements
-Python 3.x
-pygame
-💻 Launch Your Software Development Career Today!
-🎓 No degree? No problem! My program equips you with everything you need to break into tech and land an entry-level software development role.
+---
 
-🚀 Why Join?
+## 🎮 How to Play
+1. Use the **arrow keys** to move:
+   - ⬆️ Up
+   - ⬇️ Down
+   - ⬅️ Left
+   - ➡️ Right
+2. Collect green snacks to grow your snake.
+3. Avoid crashing into walls or your own tail.
+4. Score points as your snake grows!
 
-💼 $70k+ starting salary potential
-🕐 Self-paced: Complete on your own time
-🤑 Affordable: Low risk compared to expensive bootcamps or degrees
-🎯 45,000+ job openings in the market
-👉 Start your journey today!
-No experience needed—just your determination. Future-proof your career and unlock six-figure potential like many of our students have!
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Python 3.6+
+- Pygame library
+
+### Installation
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/yourusername/snake-game.git
+2.Navigate to the project directory
+  cd snake-game
+3.Install dependencies:
+  pip install pygame
+4.Run the game:
+  python snake_game.py
+
+---
+## 📂 Project Structure
+
+snake-game/
+│
+├── snake_game.py      # Main game logic
+├── README.md          # Project documentation
+└── requirements.txt   # Python dependencies (optional)
+---
+
+#### 🛠 Features
+Dynamic gameplay with real-time controls.
+Random snack generation.
+Grid-based movement system.
+Collision detection for walls and self.
+------
+
+#### 🏗️ Planned Enhancements
+Add a score display.
+Introduce levels and speed variations.
+Create a start and game-over screen.
+
+------
+
+##### 📜 License
+This project is licensed under the MIT License.
+
+Replace `"yourusername"` with your actual GitHub username and add screenshots in the respective section to make the README visually appealing. Save this as `README.md` in your project directory to display it on GitHub.
+
+
+
